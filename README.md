@@ -1,13 +1,14 @@
 <div align="center">
 
-# ✨ Desejinhos
+# ✨ Desejinhos 
+
 
 > Aplicativo web moderno e intuitivo para organizar, gerenciar e acompanhar listas de desejos, presentes e metas pessoais de forma prática e visual.
 
 [![Acessar Aplicação](https://img.shields.io/badge/🚀%20Acessar%20App-%23FF6B6B.svg?style=for-the-badge&logoColor=white)](https://desejinhos.lovable.app/)
 
 </div>
-
+                     
 ---
 
 ## 🎯 Sobre o Projeto
